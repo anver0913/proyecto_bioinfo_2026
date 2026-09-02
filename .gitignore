@@ -1,0 +1,6 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Otros archivos y carpetas que no se deben incluir en el control de versiones
+guia_tutorial_vscode.md
